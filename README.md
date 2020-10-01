@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Lee, a full-stack web developer from the UK! My technologies I use widely vary. From Docker to Dart, i've tried it all!
+
 <!--
 **lee-jordan/lee-jordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
